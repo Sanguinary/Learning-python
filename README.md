@@ -8,4 +8,4 @@ Feel free to use or modify these, they are just scratches on a napkin
 
 =====
 
-This was done following the HTML version of ['Learn Python the Hard Way'](learnpythonthehardway.org/book/)
+This was done following the HTML version of ['Learn Python the Hard Way'](www.learnpythonthehardway.org/book/)
